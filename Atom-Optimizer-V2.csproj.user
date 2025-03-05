@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Atom_Optimizer\cpu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\debloat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\downloads.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\general.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\gpu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\network.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\power.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\ram.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\welcome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Atom_Optimizer\windows.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

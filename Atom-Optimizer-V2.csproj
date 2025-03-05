@@ -1,0 +1,75 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>Atom Optimizer</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>net472</TargetFramework>
+    <Prefer32Bit>True</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>7.3</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Atom_Optimizer.debloat.bat" />
+    <None Remove="Atom_Optimizer.16gb.bat" />
+    <None Remove="Atom_Optimizer.20gb.bat" />
+    <None Remove="Atom_Optimizer.32gb.bat" />
+    <None Remove="Atom_Optimizer.4gb.bat" />
+    <None Remove="Atom_Optimizer.64gb.bat" />
+    <None Remove="Atom_Optimizer.8gb.bat" />
+    <None Remove="Atom_Optimizer.amd.bat" />
+    <None Remove="Atom_Optimizer.adapter.bat" />
+    <None Remove="Atom_Optimizer.advanced.bat" />
+    <None Remove="Atom_Optimizer.amdgpu.bat" />
+    <None Remove="Atom_Optimizer.intel.bat" />
+    <None Remove="Atom_Optimizer.netowrk.bat" />
+    <None Remove="Atom_Optimizer.general.bat" />
+    <None Remove="Atom_Optimizer.extreme.bat" />
+    <None Remove="Atom_Optimizer.normal.bat" />
+    <None Remove="Atom_Optimizer.nvidia.bat" />
+    <None Remove="Atom_Optimizer.power.bat" />
+    <None Remove="Atom_Optimizer.powerplan.bat" />
+    <None Remove="Atom_Optimizer.process.bat" />
+    <None Remove="costura.costura.dll.compressed" />
+    <None Remove="costura.costura.pdb.compressed" />
+    <None Remove="costura.guna.ui2.dll.compressed" />
+    <None Remove="costura.metadata" />
+    <EmbeddedResource Include="Atom_Optimizer.debloat.bat" LogicalName="Atom_Optimizer.debloat.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.16gb.bat" LogicalName="Atom_Optimizer.16gb.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.20gb.bat" LogicalName="Atom_Optimizer.20gb.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.32gb.bat" LogicalName="Atom_Optimizer.32gb.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.4gb.bat" LogicalName="Atom_Optimizer.4gb.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.64gb.bat" LogicalName="Atom_Optimizer.64gb.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.8gb.bat" LogicalName="Atom_Optimizer.8gb.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.amd.bat" LogicalName="Atom_Optimizer.amd.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.adapter.bat" LogicalName="Atom_Optimizer.adapter.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.advanced.bat" LogicalName="Atom_Optimizer.advanced.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.amdgpu.bat" LogicalName="Atom_Optimizer.amdgpu.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.intel.bat" LogicalName="Atom_Optimizer.intel.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.netowrk.bat" LogicalName="Atom_Optimizer.netowrk.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.general.bat" LogicalName="Atom_Optimizer.general.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.extreme.bat" LogicalName="Atom_Optimizer.extreme.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.normal.bat" LogicalName="Atom_Optimizer.normal.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.nvidia.bat" LogicalName="Atom_Optimizer.nvidia.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.power.bat" LogicalName="Atom_Optimizer.power.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.powerplan.bat" LogicalName="Atom_Optimizer.powerplan.bat" />
+    <EmbeddedResource Include="Atom_Optimizer.process.bat" LogicalName="Atom_Optimizer.process.bat" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Guna.UI2.WinForms" Version="2.0.4.7" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="Guna.UI2">
+      <HintPath>..\..\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\x64\Release\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+  </ItemGroup>
+</Project>

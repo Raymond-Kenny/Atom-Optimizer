@@ -1,0 +1,15 @@
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom-Optimizer-V2.csproj.AssemblyReference.cache
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom_Optimizer.Form1.resources
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom_Optimizer.Form2.resources
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom_Optimizer.Properties.Resources.resources
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom_Optimizer.welcome.resources
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom-Optimizer-V2.csproj.GenerateResource.cache
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom-Optimizer-V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom-Optimizer-V2.csproj.CoreCompileInputs.cache
+C:\Users\hick\Desktop\gg\bin\Debug\net472\Atom Optimizer.exe.config
+C:\Users\hick\Desktop\gg\bin\Debug\net472\Atom Optimizer.exe
+C:\Users\hick\Desktop\gg\bin\Debug\net472\Atom Optimizer.pdb
+C:\Users\hick\Desktop\gg\bin\Debug\net472\Guna.UI2.dll
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom-Opt.405843B0.Up2Date
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom Optimizer.exe
+C:\Users\hick\Desktop\gg\obj\Debug\net472\Atom Optimizer.pdb

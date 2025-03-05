@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atom-Optimizer-V2", "Atom-Optimizer-V2.csproj", "{31FD3691-AF28-4ABA-B906-0C4CAB90048B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31FD3691-AF28-4ABA-B906-0C4CAB90048B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FD3691-AF28-4ABA-B906-0C4CAB90048B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FD3691-AF28-4ABA-B906-0C4CAB90048B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FD3691-AF28-4ABA-B906-0C4CAB90048B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695BAC97-6F2A-4A98-9E00-B57827109145}
+	EndGlobalSection
+EndGlobal

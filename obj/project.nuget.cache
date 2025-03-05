@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OYp56VK/jBs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hick\\Desktop\\gg\\Atom-Optimizer-V2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hick\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512"
+  ],
+  "logs": []
+}
